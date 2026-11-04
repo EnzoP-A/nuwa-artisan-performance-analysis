@@ -1,0 +1,121 @@
+﻿artisan_id,artisan_name,category,region,onboarding_date,business_age_years,business_size,acquisition_channel
+ART001,Les Créations de Noma,Candles & Fragrance,Occitanie,2025-08-17,2,Solo,Google Search
+ART002,Naya Lys,Stationery,Auvergne-Rhône-Alpes,2025-01-31,1,Solo,Referral
+ART003,Naya Sora,Candles & Fragrance,Centre-Val de Loire,2026-07-13,4,Solo,Instagram
+ART004,Atelier Lune,Candles & Fragrance,Hauts-de-France,2025-10-12,2,Small team (4-8),Craft Fair
+ART005,Studio Orée,Jewelry,Hauts-de-France,2026-09-11,3,Solo,Craft Fair
+ART006,Les Créations de Orée,Jewelry,Provence-Alpes-Côte d'Azur,2026-10-06,6,Micro-team (2-3),Referral
+ART007,Studio Amani,Candles & Fragrance,Provence-Alpes-Côte d'Azur,2025-03-23,10,Micro-team (2-3),Craft Fair
+ART008,Sépia Kalia,Ceramics,Hauts-de-France,2025-08-03,7,Solo,
+ART009,Studio Iris,Stationery,Normandie,2025-09-08,2,Solo,Local Artisan Network
+ART010,Naya Ébène,Candles & Fragrance,Auvergne-Rhône-Alpes,2025-08-23,10,Micro-team (2-3),Craft Fair
+ART011,Studio Sora,Black & Mixed-Race Beauty,Pays de la Loire,2025-11-19,2,Solo,Partnership
+ART012,Sépia Mina,Textile,Occitanie,2026-07-29,5,Micro-team (2-3),Craft Fair
+ART013,Mina Orée,Textile,Nouvelle-Aquitaine,2026-06-06,5,Micro-team (2-3),Partnership
+ART014,L'Atelier de Lune,Art & Illustration,Grand Est,2026-09-03,1,Solo,Local Artisan Network
+ART015,Orée Céleste,Black & Mixed-Race Beauty,Auvergne-Rhône-Alpes,2025-04-28,7,Solo,Instagram
+ART016,Kalia Kora,Textile,Nouvelle-Aquitaine,2026-04-10,1,Micro-team (2-3),Google Search
+ART017,Orée Lune,Home Decor,Île-de-France,2026-10-03,3,Solo,Referral
+ART018,L'Atelier de Kalia,Art & Illustration,Normandie,2026-06-28,12,Solo,Referral
+ART019,Les Créations de Kalia,Black & Mixed-Race Beauty,Provence-Alpes-Côte d'Azur,2025-09-03,1,Micro-team (2-3),Local Artisan Network
+ART020,Studio Sillage,Art & Illustration,Normandie,2025-05-09,2,Solo,Referral
+ART021,Sillage Néroli,Black & Mixed-Race Beauty,Grand Est,2025-08-05,12,Micro-team (2-3),Google Search
+ART022,Ébène Orée,Black & Mixed-Race Beauty,Bourgogne-Franche-Comté,2026-01-18,4,Solo,Instagram
+ART023,Noma Lys,Textile,Pays de la Loire,2026-07-22,2,Solo,Instagram
+ART024,Maison Ébène,Jewelry,Auvergne-Rhône-Alpes,2025-12-05,1,Solo,Google Search
+ART025,Éclat Azalée,Jewelry,Ile-de-France,2026-08-14,5,Micro-team (2-3),TikTok
+ART026,Éclat Kora,Jewelry,Grand Est,2025-12-29,4,Solo,Google Search
+ART027,Les Créations de Amani,Home Decor,Hauts-de-France,2025-04-22,3,Solo,Craft Fair
+ART028,Néroli Lune,Textile,Occitanie,2025-03-19,4,Micro-team (2-3),Referral
+ART029,Maison Azalée,Art & Illustration,Île-de-France,2025-08-31,2,Solo,Instagram
+ART030,Luna Amani,Ceramics,Auvergne-Rhône-Alpes,2026-02-04,3,Micro-team (2-3),Craft Fair
+ART031,Néroli Azalée,Candles & Fragrance,Bretagne,2025-06-08,2,Solo,Instagram
+ART032,Naya Amani,Candles & Fragrance,Auvergne-Rhône-Alpes,2025-02-21,6,Solo,Partnership
+ART033,Manufacture Amani,Black & Mixed-Race Beauty,Île-de-France,2025-07-10,1,Solo,Partnership
+ART034,Luna Kora,Black & Mixed-Race Beauty,Pays de la Loire,2025-09-10,6,Solo,Instagram
+ART035,Mina Naya,Leather Goods,Provence-Alpes-Côte d'Azur,2025-07-29,7,Solo,Instagram
+ART036,L'Atelier de Rivage,Home Decor,Île-de-France,2025-01-10,5,Small team (4-8),Local Artisan Network
+ART037,Studio Azalée,Ceramics,Provence-Alpes-Côte d'Azur,2025-05-16,13,Micro-team (2-3),Partnership
+ART038,Mosaïque Rivage,Ceramics,Normandie,2025-11-06,6,Small team (4-8),Google Search
+ART039,Atelier Azalée,Textile,Bourgogne-Franche-Comté,2025-04-17,13,Solo,Instagram
+ART040,Les Créations de Azalée,Ceramics,Provence-Alpes-Côte d'Azur,2026-09-12,2,solo,Google Search
+ART041,Amani Céleste,Black & Mixed-Race Beauty,Auvergne-Rhône-Alpes,2025-04-05,7,Micro-team (2-3),Instagram
+ART042,Kalia Mina,Stationery,Provence-Alpes-Côte d'Azur,2025-06-15,8,Solo,Craft Fair
+ART043,Atelier Kora,Jewelry,Centre-Val de Loire,2025-06-02,6,Micro-team (2-3),Referral
+ART044,L'Atelier de Nova,Jewelry,Provence-Alpes-Côte d'Azur,2026-01-09,11,Micro-team (2-3),Partnership
+ART045,Mosaïque Sora,Candles & Fragrance,Bourgogne-Franche-Comté,2025-04-16,4,Solo,Partnership
+ART046,Solstice Mina,Black & Mixed-Race Beauty,Occitanie,2025-06-16,14,Micro-team (2-3),Partnership
+ART047,Kalia Nova,Art & Illustration,Centre-Val de Loire,2025-09-12,3,Micro-team (2-3),Instagram
+ART048,Maison Sillage,Ceramics,Bretagne,2025-12-25,3,Micro-team (2-3),Instagram
+ART049,Atelier Sora,Home Decor,Provence-Alpes-Côte d'Azur,2025-03-13,14,Solo,Google Search
+ART050,Luna Azalée,Textile,Auvergne-Rhône-Alpes,2025-04-29,11,Solo,Referral
+ART051,Sillage Amani,Jewelry,Grand Est,2025-12-20,8,Solo,Referral
+ART052,Orée Kora,Textile,Pays de la Loire,2025-07-14,3,Solo,Instagram
+ART053,Mosaïque Nova,Jewelry,Bourgogne-Franche-Comté,2025-12-05,6,Solo,Instagram
+ART054,Ébène Néroli,Textile,Grand Est,2025-12-01,4,Solo,Instagram
+ART055,Néroli Orée,Textile ,Nouvelle-Aquitaine,2026-09-23,6,Solo,TikTok
+ART056,Ébène Rivage,Ceramics,Pays de la Loire,2026-09-14,7,Solo,Craft Fair
+ART057,Éclat Néroli,Home Decor,Centre-Val de Loire,2025-06-23,7,Solo,Google Search
+ART058,Solstice Mosaïque,Jewelry,Occitanie,2025-11-14,2,Solo,Instagram
+ART059,Noma Sillage,Stationery,Île-de-France,2026-04-12,4,Solo,Instagram
+ART060,Luna Sillage,Home Decor,Nouvelle-Aquitaine,2025-01-06,11,Micro-team (2-3),Partnership
+ART061,Néroli Ébène,Ceramics,Centre-Val de Loire,2026-06-15,5,Solo,Partnership
+ART062,Les Créations de Terra,Jewelry,Bretagne,2026-06-28,15,Solo,Local Artisan Network
+ART063,Sépia Iris,Art & Illustration,Normandie,2026-03-13,10,Solo,Partnership
+ART064,Amani Terra,Textile,Occitanie,2026-10-15,3,Micro-team (2-3),Referral
+ART065,Noma Céleste,Home Decor,Centre-Val de Loire,2025-10-20,2,Solo,Partnership
+ART066,Studio Mina,Ceramics,Grand Est,2025-06-06,8,Solo,Craft Fair
+ART067,Naya Terra,Home Decor,Occitanie,2026-03-07,4,Micro-team (2-3),Local Artisan Network
+ART068,Atelier Naya,Textile,Auvergne-Rhône-Alpes,2025-12-27,3,Solo,Partnership
+ART069,Naya Iris,Black & Mixed-Race Beauty,Bretagne,2025-08-13,,Solo,Craft Fair
+ART070,Luna Lune,Art & Illustration,Nouvelle-Aquitaine,2026-09-30,5,Micro-team (2-3),Referral
+ART071,Atelier Lys,Stationery,Nouvelle-Aquitaine,2026-04-18,2,Solo,Craft Fair
+ART072,Sépia Mosaïque,Textile,Grand Est,2025-10-12,8,Micro-team (2-3),Instagram
+ART073,Maison Kalia,Ceramics,Île-de-France,2026-10-30,1,Solo,Instagram
+ART074,Atelier Iris,Ceramics,Nouvelle-Aquitaine,2026-04-30,7,Solo,Instagram
+ART075,Sillage Kalia,Ceramics,Pays de la Loire,2025-04-28,9,Solo,Craft Fair
+ART076,Mina Noma,Black & Mixed-Race Beauty,Pays de la Loire,2026-01-20,4,Solo,Instagram
+ART077,Noma Kora,Candles & Fragrance,Provence-Alpes-Côte d'Azur,2026-09-07,9,Micro-team (2-3),Referral
+ART078,Naya Nova,Candles & Fragrance,Île-de-France,2026-06-03,7,Solo,Craft Fair
+ART079,Amani Kora,Home Decor,Hauts-de-France,2026-10-13,11,Solo,Instagram
+ART080,Manufacture Néroli,Black & Mixed-Race Beauty,Provence-Alpes-Côte d'Azur,2026-09-23,10,Solo,Referral
+ART081,Néroli Naya,Textile,Occitanie,2025-03-30,3,Solo,Google Search
+ART082,Mina Iris,Candles & Fragrance,Hauts-de-France,2025-01-30,5,Solo,Referral
+ART083,Mosaïque Céleste,Textile,Pays de la Loire,2025-10-10,6,Solo,Instagram
+ART084,Noma Nova,Home Decor,Auvergne Rhone Alpes,2026-05-03,7,Solo,TikTok
+ART085,Studio Rivage,Ceramics,Centre-Val de Loire,2025-09-07,3,Solo,Craft Fair
+ART086,Orée Kalia,Home Decor,Centre-Val de Loire,2026-07-18,3,Solo,Instagram
+ART087,Sillage Ébène,Jewelry,Occitanie,2025-11-20,1,Solo,TikTok
+ART088,Manufacture Sora,Ceramics,Bretagne,2025-10-11,8,Small team (4-8),Referral
+ART089,Ébène Kora,Art & Illustration,Provence-Alpes-Côte d'Azur,2025-08-21,4,Solo,Google Search
+ART090,L'Atelier de Céleste,Jewelry,Auvergne-Rhône-Alpes,2026-07-21,3,Small team (4-8),Referral
+ART091,Ébène Sillage,Home Decor,Hauts-de-France,2025-07-08,14,Solo,Partnership
+ART092,Les Créations de Lys,Home Decor,Île-de-France,2026-08-14,7,Solo,Instagram
+ART093,Mina Rivage,Jewelry,Occitanie,2025-05-02,6,Solo,Referral
+ART094,Solstice Ébène,Art & Illustration,Grand Est,2026-04-07,12,Solo,Referral
+ART095,Néroli Rivage,Leather Goods,Auvergne-Rhône-Alpes,2026-09-17,14,Solo,TikTok
+ART096,Éclat Céleste,Candles & Fragrance,Nouvelle-Aquitaine,2025-09-03,2,Solo,Instagram
+ART097,Amani Rivage,Jewelry,Provence-Alpes-Côte d'Azur,2025-10-17,8,Solo,Google Search
+ART098,Sillage Naya,Candles & Fragrance,Occitanie,2026-03-12,1,Solo,Instagram
+ART099,Sillage Mina,Jewelry,Nouvelle-Aquitaine,2025-11-11,6,Micro-team (2-3),Local Artisan Network
+ART100,Sépia Kora,Home Decor,Provence-Alpes-Côte d'Azur,2026-02-17,13,Solo,Referral
+ART101,Maison Nova,Candles & Fragrance,Pays de la Loire,2025-09-14,1,Solo,Google Search
+ART102,Atelier Céleste,Leather Goods,Nouvelle-Aquitaine,2026-04-27,5,Solo,Instagram 
+ART103,Mina Nova,Stationery,Bretagne,2025-04-04,5,Solo,Craft Fair
+ART104,Les Créations de Lune,Textile,Centre-Val de Loire,2026-05-23,3,Small team (4-8),TikTok
+ART105,Sépia Lys,Textile,Hauts-de-France,2025-04-29,14,Solo,Referral
+ART106,Sépia Nova,Jewelry,Normandie,2026-01-06,6,Solo,Craft Fair
+ART107,Maison Sora,Textile,Nouvelle-Aquitaine,2025-10-22,4,Solo,Instagram
+ART108,Manufacture Rivage,Leather Goods,Normandie,2026-02-22,1,Small team (4-8),Partnership
+ART109,L'Atelier de Sillage,Black & Mixed-Race Beauty,Provence-Alpes-Côte d'Azur,2026-06-06,8,Solo,Referral
+ART110,Amani Ébène,Home Decor,Nouvelle-Aquitaine,2026-01-28,2,Solo,Google Search
+ART111,L'Atelier de Lys,Textile,Grand Est,2025-12-15,13,Solo,TikTok
+ART112,Amani Mina,Home Decor,Bretagne,2025-12-20,3,Micro-team (2-3),Craft Fair
+ART113,Kalia Sora,Black & Mixed-Race Beauty,Occitanie,2026-08-09,4,Micro-team (2-3),Craft Fair
+ART114,Kalia Sillage,Candles & Fragrance,Grand Est,2026-01-31,15,Solo ,Google Search
+ART115,Maison Mina,Home Decor,Pays de la Loire,2025-12-06,11,Micro-team (2-3),Craft Fair
+ART116,Orée Terra,Jewelry,Nouvelle-Aquitaine,2026-02-24,11,Small team (4-8),Instagram
+ART117,Sillage Mosaïque,Stationery,Grand Est,2026-10-28,1,Solo,Google Search
+ART118,Naya Orée,Black & Mixed-Race Beauty,Bourgogne-Franche-Comté,2026-05-15,11,Solo,Instagram
+ART119,Ébène Ébène,Candles & Fragrance,Grand Est,2025-04-11,9,Solo,Instagram
+ART120,Atelier Amani,Textile,Auvergne-Rhône-Alpes,2025-10-28,4,Solo,Instagram
